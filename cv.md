@@ -101,4 +101,4 @@ I have 2 year of entry experience as a SOC analyst. I have a strong understandin
 
 
 <br />
-> <a href="https://md2pdf.netlify.app/">🧙‍♂️ CV to PDF 🧙‍♂️</a>
+* <a href="https://md2pdf.netlify.app/">🧙‍♂️ CV to PDF 🧙‍♂️</a>
