@@ -86,7 +86,7 @@ I have 2 year of entry experience as a SOC analyst. I have a strong understandin
 * Splunk Enterprise Security - Splunk
 * GIAC Certified Detection Analyst (GCDA) SEC-555GIAC - SANS
 
- <h1>🪀 Personal qualities 🪀</h1>
+### 🪀 Personal qualities 🪀
 
 * Purposeful 
 * Humorous 
