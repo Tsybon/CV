@@ -81,6 +81,7 @@ I have 2 year of entry experience as a SOC analyst. I have a strong understandin
 
 * I-CSO
 * CSA - EC-Council
+* CIH - EC-Council
 * QA base / advance - ITEA
 * Security analyst - Dubex
 * Splunk Enterprise Security - Splunk
