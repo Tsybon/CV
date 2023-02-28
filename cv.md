@@ -33,6 +33,7 @@ I have 2 year of entry experience as a SOC analyst. I have a strong understandin
 * Incident report creating
 * Communications with customers
 * SIEM engineering (logs ingestion, normalization etc.)
+* Writing detection rules (YARA, Sigma)
 
 ### 🎓 Common skills 👨‍🎓
 
@@ -85,7 +86,7 @@ I have 2 year of entry experience as a SOC analyst. I have a strong understandin
 * QA base / advance - ITEA
 * Security analyst - Dubex
 * Splunk Enterprise Security - Splunk
-* GIAC Certified Detection Analyst (GCDA) SEC-555GIAC - SANS
+* GIAC Certified Detection Analyst (GCDA) SEC-555
 
 ### 🪀 Personal qualities 🪀
 
