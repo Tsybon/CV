@@ -74,7 +74,7 @@ I have 2 year of entry experience as a SOC analyst. I have a strong understandin
 
 ### ⚔️ Cybersecurity events ⚔️
 
-* CTFs (“Fresh Blood», “OWASP CTF Kyiv”, etc.)
+* CTFs (“Fresh Blood", “OWASP CTF Kyiv”, etc.)
 * Offline competition (“SANS netwars”, “INT20H”, “Cybexer blue team competition”, etc.)
 * Online competition (“Splunk Boss Of the SOC”, “Tatanka 2022”, etc.)
 
