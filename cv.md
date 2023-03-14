@@ -86,7 +86,8 @@ I have 2 year of entry experience as a SOC analyst. I have a strong understandin
 * QA base / advance - ITEA
 * Security analyst - Dubex
 * Splunk Enterprise Security - Splunk
-* GIAC Certified Detection Analyst (GCDA) SEC-555
+* GIAC Certified Detection Analyst (GCDA) SEC-555 - SANS
+* Master Wireshark - CodeRed
 
 ### 🪀 Personal qualities 🪀
 
