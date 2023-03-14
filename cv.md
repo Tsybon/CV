@@ -18,7 +18,7 @@ I have 2 year of entry experience as a SOC analyst. I have a strong understandin
 
 ### 🗣️ Languages 🗣️
 
-* Ukrainian - native
+* Ukrainian - Native
 * English  - B2
 
 ### 🏢 Job experience 🏢
