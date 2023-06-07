@@ -83,7 +83,7 @@ I have 2 year of entry experience as a SOC analyst. I have a strong understandin
 * CSA - EC-Council
 * CIH - EC-Council
 * QA base / advance - ITEA
-* Security analyst - Dubex (3-month course)
+* Security analyst - Dubex Denmark (3-month course) offline
 * Splunk Enterprise Security - Splunk
 * SEC555: SIEM with Tactical Analytics - SANS
 * SEC508: Advanced Incident Response, Threat Hunting, and Digital Forensics - SANS
