@@ -86,6 +86,7 @@ I have 2 year of entry experience as a SOC analyst. I have a strong understandin
 * Security analyst - Dubex (3-month course)
 * Splunk Enterprise Security - Splunk
 * SEC555: SIEM with Tactical Analytics - SANS
+* SEC508: Advanced Incident Response, Threat Hunting, and Digital Forensics - SANS
 * Master Wireshark - CodeRed
 
 ### 🪀 Personal qualities 🪀
