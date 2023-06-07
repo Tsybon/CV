@@ -87,7 +87,8 @@ I have 2 year of entry experience as a SOC analyst. I have a strong understandin
 * Splunk Enterprise Security - Splunk
 * SEC555: SIEM with Tactical Analytics - SANS
 * SEC508: Advanced Incident Response, Threat Hunting, and Digital Forensics - SANS
-* Master Wireshark - CodeRed
+* Master Wireshark - EC-Council/CodeRed
+* Metasploit Like a Pro - EC-Council/CodeRed
 
 ### 🪀 Personal qualities 🪀
 
