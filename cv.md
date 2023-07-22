@@ -50,7 +50,7 @@ I have 2 year of entry experience as a SOC analyst. I have a strong understandin
 * Sandbox (Trend micro, Any Run)
 * SIEM (ELK, Splunk, QRadar, Logrhythm)
 * Cisco network security (Firepower, Stealthwatch)
-* EDR (Cisco AMP)
+* EDR (Cisco AMP, Crowdstike)
 
 ### 🕸️ Frameworks, utilities, and services 🕸️
 
