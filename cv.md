@@ -28,7 +28,7 @@ I have 2 year of entry experience as a SOC analyst. I have a strong understandin
 
 ### 🚨 Responsibilities 🚨
 
-* Incident triage handling
+* Incident triage and handling
 * Detection rules implementing
 * Incident report creating
 * Communications with customers
