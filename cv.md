@@ -29,8 +29,8 @@ I have 2 year of entry experience as a SOC analyst. I have a strong understandin
 ### 🚨 Responsibilities 🚨
 
 * Incident triage and handling
-* Detection rules implementing
-* Incident report creating
+* Implementation of detection rules
+* Creation of incident reports
 * Communications with customers
 * SIEM engineering (logs ingestion, normalization etc.)
 * Writing detection rules (YARA, Sigma)
@@ -92,8 +92,8 @@ I have 2 year of entry experience as a SOC analyst. I have a strong understandin
 
 ### 🪀 Personal qualities 🪀
 
-* Purposeful 
-* Humorous 
+* Initiative 
+* Good sense of humor 
 * Responsible
 * Able to learn quickly
 * Friendly
