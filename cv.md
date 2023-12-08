@@ -12,7 +12,7 @@ SECURITY ANALYST 👨‍💻
 
 <br />
 
-I have 2 year of entry experience as a SOC analyst. I have a strong understanding and experience with incident handling, log analysis and threat hunting. I have been involved in a full incident management lifecycle. My main domain is blue teaming, especially SIEM, but I am also familiar with penetration testing and have a basic experience as a manual QA.
+I have 2 years of entry experience as a SOC analyst. I have a strong understanding and experience with incident handling, log analysis, and threat hunting. I have been involved in a full incident management lifecycle. My main domain is blue teaming, especially SIEM, but I am also familiar with penetration testing and have basic experience as a manual QA.
 
 <br />
 
